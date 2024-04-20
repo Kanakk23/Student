@@ -21,6 +21,7 @@ This is a simple C++ project for managing student records using a MySQL database
 
   
 MySQL Database Integration with C++
+
 Introduction
 MySQL is a popular relational database management system (RDBMS) used for storing and managing structured data. Integrating MySQL with a C++ project allows you to perform database operations such as querying, inserting, updating, and deleting data from within your C++ application.
 
