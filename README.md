@@ -48,3 +48,6 @@ Conclusion
 Integrating MySQL with a C++ project using MySQL Connector/C++ allows for efficient and robust database operations within the C++ application. By leveraging OOP principles and class inheritance, along with the capabilities of MySQL Connector/C++, you can build powerful database-driven applications in C++.
 
 This theoretical overview provides insight into the concepts and techniques used to integrate MySQL with C++ project, facilitating effective database management and manipulation.
+
+![WhatsApp Image 2024-07-19 at 2 00 15 PM](https://github.com/user-attachments/assets/09624d23-552f-4a00-b39a-09b346d2988b)
+
