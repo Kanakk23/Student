@@ -1,12 +1,13 @@
-# Student Management System
+# Student Database Management System
 
-This is a simple C++ project for managing student records using a MySQL database.
+This project is a simple Student Database Management System implemented in C++ using MySQL. The system allows you to perform CRUD (Create, Read, Update, Delete) operations on a `student` database.
 
 ## Features
 
-- Add a student
-- Delete a student
-- Show all students
+- **Insert Data**: Add a new student record to the database.
+- **Delete Data**: Remove an existing student record from the database.
+- **Update Data**: Modify the grade of an existing student.
+- **Read Data**: Display all student records from the database.
 
 ## Concepts Used
 
